@@ -2,3 +2,12 @@ Code integral et fonctionnel du projet de BTS SNIR "Monster truck" le code n'as 
 
 
 Le projet a eté realisé par Jerome Chenoz et Valentin Bosse
+
+
+La realisation du projet a eu lieu avec un monster truck sur lequel etait relié une carte arduino qui dirige les informations vers le moteur, sur la carte arduino est connecté un shield XBEE qui as pour but de recevoir les informations provenant du module maitre xbee 
+
+Ainsi nous avons un poste avec l'ihm active, et un module XBEE relié le module envoie par port serie l'information
+Tout cela arrive alors sur le module relié a l'arduino qui dira comment faire.
+
+Notre IHM est controlable avec les touches "NUMPAD".
+
